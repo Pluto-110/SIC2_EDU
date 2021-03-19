@@ -1,2 +1,7 @@
 # SIC2_EDU
 Programming &amp; Hardware guide for SIC2_EDU security IoT kit 
+
+![alt text](https://github.com/[Pluto-110]/[SIC2_EDU]/blob/[main]/Screenshot (1051).png?raw=true)
+
+![alt text](https://github.com/[Pluto-110]/[SIC2_EDU]/blob/[main]/Screenshot (1053).png?raw=true)
+
