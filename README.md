@@ -1,6 +1,11 @@
 # SIC2_EDU
 Programming &amp; Hardware guide for SIC2_EDU security IoT kit 
 
+
+
+SatC_EDU Board in bumper case render ~ (Autodesk, Fusion360)
+![alt text](https://github.com/Pluto-110/SIC2_EDU/blob/main/Case_stls/SatC_EDU_CASE_RENDER_2.jpg?raw=true)
+
 Schematic ~ (Based on schems from espressif)
 ![alt text](https://github.com/Pluto-110/SIC2_EDU/blob/main/Schematic_SICC_EDU_CP2102_Version_TFT__OLED_2021-03-19.png?raw=true)
 
