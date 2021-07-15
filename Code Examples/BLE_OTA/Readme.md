@@ -26,8 +26,8 @@ Step 2: (Set up & Flash SatC_EDU)
 Step 3:
   *In the linux machine, open a command termnial (ctrl + alt + t) 
   *Navigate to where you unzipped the git clone and cd into WebApp
-   if using the VM use " cd Desktop/ESP32_OTA_BLE_React_WebApp_Demo-master/WebApp " - I extracted to the desktop but you can put the file anywhere...
-  * 
+   if using the VM use " cd Desktop/ESP32_OTA_BLE_React_WebApp_Demo-master/WebApp " - NOTE:[ I extracted to the desktop but you can put the file anywhere... ]
+  * Run the command "HPPT = true npm start". This will begin the WebApp
   
   
   
