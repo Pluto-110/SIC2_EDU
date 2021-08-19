@@ -9,3 +9,7 @@ These connectors have two protrusions on the bottom that fit into the two board 
  
 Add a little bit of flux to the board where the connector will go. Once the connector is placed, turn the board over and sill in the holes that the USB prongs stick through. Fill these holes with solder, this will assure the USB connector does not break off or move around. 
 
+Once in the place the five small pins will sit alligned with the solder pads underneith them. These connections should be soldered with a fine tip, one by one, combing is NOT advised. 
+
+
+
