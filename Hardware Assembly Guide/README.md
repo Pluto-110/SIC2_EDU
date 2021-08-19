@@ -1,3 +1,6 @@
+# SIC2_EDU
+Assembly guide for SIC2_EDU security IoT kit Printed Circuit Board.
+
 This is a guide on the assembly and soldering of the SatC_EDU IoT kit PCB.
 
 The very first component that should be placed and soldered is the micro-USB connector that allows the board to be connected to a PC for programming and power. 
