@@ -1,5 +1,5 @@
 # SIC2_EDU
-Assembly guide for SIC2_EDU security IoT kit Printed Circuit Board.
+## Assembly guide for SIC2_EDU security IoT kit Printed Circuit Board.
 
 This is a guide on the assembly and soldering of the SatC_EDU IoT kit PCB.
 
