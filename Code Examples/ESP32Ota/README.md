@@ -29,7 +29,7 @@ ArduinoOTA.setHostname("esp_test");
 ```
 
 # OTA in pio
-In pio, we need to specify the upload_protocol and upload_port, which is the ip address of the board. One example platformio.ini looks like the following
+In pio, we need to specify the upload_protocol and upload_port, which is the ip address of the board. One example platformio.ini looks like the following. This example uses the Arduino library installed by Arduino IDE. But really pay attention to the last two lines.
 
 ```
 ; PlatformIO Project Configuration File
