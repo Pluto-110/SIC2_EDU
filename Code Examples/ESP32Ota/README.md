@@ -28,7 +28,8 @@ You can change the name of your device by changing this line of code:
 ArduinoOTA.setHostname("esp_test");
 ```
 
-In pio,
+# OTA in pio
+In pio, we need to specify the upload_protocol and upload_port, which is the ip address of the board
 
 ```
 ; PlatformIO Project Configuration File
