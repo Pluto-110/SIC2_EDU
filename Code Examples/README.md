@@ -1,4 +1,4 @@
-The board works with the ESP-IDF extension and PlatformIO extension of VSCode. 
+Our board works with the ESP-IDF extension and PlatformIO extension of VSCode. 
 
 For the PlatformIO extension, use the board Espressif ESP32 Dev Module. In the interface of PIO, we can use "Import Arduino Project" to import an Arduino project. There is no need marking "Use libraries installed by Arduino IDE".
 
