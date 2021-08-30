@@ -2,6 +2,7 @@ The board works with the ESP-IDF extension and PlatformIO extension of VSCode.
 
 For the PlatformIO extension, use the board Espressif ESP32 Dev Module. platformio.ini looks like the following
 
+```
 ; PlatformIO Project Configuration File
 ;
 ;   Build options: build flags, source filter
@@ -16,4 +17,4 @@ For the PlatformIO extension, use the board Espressif ESP32 Dev Module. platform
 platform = espressif32
 board = esp32dev
 framework = arduino
-
+```
