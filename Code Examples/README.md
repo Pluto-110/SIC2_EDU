@@ -1,5 +1,4 @@
-Our board works with Arduino
-Board: ESP32 Dev Module
+Our board works with Arduino. Set the board as ESP32 Dev Module.
 
 Our board works with the ESP-IDF extension and PlatformIO extension of VSCode. 
 
